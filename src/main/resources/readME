@@ -1,0 +1,6 @@
+para realizar chamada usar o postman com o request
+
+{
+	"nomeArquivo": "teste.txt",
+	"diretorioArquivo": "D:\\1 - Projetos\\Personal\\ReadWriteFile\\src\\main\\resources\\"
+}
